@@ -5,7 +5,9 @@ type Metadata = {
   title: string
   publishedAt: string
   summary: string
+  skills: string
   image?: string
+  order: string
 }
 
 function parseFrontmatter(fileContent: string) {

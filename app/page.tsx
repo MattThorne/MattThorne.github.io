@@ -9,7 +9,7 @@ export default function Page() {
         Matt Thorne
       </h1>
       <p className="text-lg  tracking-tighter">
-        Software Engineer and Certified AWS Expert
+        Software Engineer
       </p>
       <SocialLinks />
       {/* <p className="mt-8 mb-4">
